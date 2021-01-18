@@ -1,3 +1,1 @@
-<p align="center">
- <img src="/screen1.png" width="700" height="350">
-</p>
+![Alt text](screen1.png?raw=true "Frontend")
